@@ -1,0 +1,109 @@
+body{
+    height: 942px;
+    width: 695px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#textspace{
+    line-height: 5px;
+}
+.name{
+    color:orange;
+    font-weight: bold;
+}
+.right{
+    float:right;
+    position: relative;
+}
+.gras{
+    font-weight:bold;
+}
+.minus{
+    font-size:small;
+}
+.job{
+    color: orange;
+    text-align: center;
+    position: relative;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size:25px;
+}
+.qualite{
+    color: orange;
+    text-align: center;
+    position: relative;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size:22px;
+}
+#stagetitle{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border:solid black;
+    background-color:gray;
+    color: white;
+}
+
+.testsize{
+    margin-top: -28px;
+}
+.stage{
+    position:relative;
+    left:110px;
+}
+.stage2{
+    position:relative;
+    left:88px;
+}
+.liste{
+    font-size:14px;
+    position: relative;
+    left:190px;
+    top:-18px;
+
+}
+#formationtitle{
+    margin-top: -25px;
+    margin-bottom: 20px;
+    border:solid black;
+    background-color:gray;
+    color: white;
+}
+.formation{
+    position:relative;
+    left:119px;
+}
+.formation2{
+    position: relative;
+    left:109px;
+}
+.formasize{
+    margin-top:-10px
+}
+#languetitle{
+    border:solid black;
+    background-color:gray;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: -5px;
+}
+.loisirtitle{
+    position: relative;
+    left:300px
+}
+.langue{
+    position: relative;
+    left:55px
+}
+.loisir{
+    position: relative;
+    left: 185px
+}
+.school{
+    position: relative;
+    left: 145px
+}
